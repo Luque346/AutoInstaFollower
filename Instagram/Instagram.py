@@ -2,7 +2,7 @@
 #─█▀▀█ █──█ ▀▀█▀▀ █▀▀█ 　 ░█▀▀▀ █▀▀█ █── █── █▀▀█ █───█ 
 #░█▄▄█ █──█ ──█── █──█ 　 ░█▀▀▀ █──█ █── █── █──█ █▄█▄█ 
 #░█─░█ ─▀▀▀ ──▀── ▀▀▀▀ 　 ░█─── ▀▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀ ─▀─▀─
-#If you don't know how to use it, read the manual on the
+#If you don't know how to use it, read the manual on the README.md
 
 
 
